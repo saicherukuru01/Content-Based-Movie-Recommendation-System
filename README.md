@@ -21,3 +21,9 @@ This application recommends movies similar to the one a user likes by analyzing 
 ```bash
 git clone [https://github.com/YOUR-USERNAME/movie-recommender-system.git](https://github.com/YOUR-USERNAME/movie-recommender-system.git)
 cd movie-recommender-system
+## 🚀 How to Run Locally
+
+**1. Clone the repository**
+```bash
+git clone [https://github.com/saicherukuru01/Content-Based-Movie-Recommendation-System.git](https://github.com/saicherukuru01/Content-Based-Movie-Recommendation-System.git)
+cd Content-Based-Movie-Recommendation-System
